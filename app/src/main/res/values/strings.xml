@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RENAP</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="logout">Logout</string>
+    <string name="state">Your DPI has already been</string>
+    <string name="process">Your DPI is</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="birthdate">birthdate</string>
+    <string name="department">department</string>
+    <string name="municipality">municipality</string>
+    <string name="address">address</string>
+    <string name="phone">phone</string>
+    <string name="dpi">DPI</string>
+</resources>

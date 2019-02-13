@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F1F1F1</color>
+    <color name="colorPrimaryDark">#040402</color>
+    <color name="colorAccent">#2F94F0</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#040402</color>
+    <color name="colorText">#999999</color>
+    <color name="colorInput">#FAFAFA</color>
+    <color name="colorDisabled">#C2E0FA</color>
+    <color name="colorActive">#343a40</color>
+    <color name="colorBorder">#DBDBDB</color>
+    <color name="colorWarning">#ffc107</color>
+    <color name="colorWarningBorder">#ffeeba</color>
+    <color name="colorWarningText">#856404</color>
+    <color name="colorInfo">#cce5ff</color>
+    <color name="colorInfoBorder">#b8daff</color>
+    <color name="colorInfoText">#004085</color>
+</resources>

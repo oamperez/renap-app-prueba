@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RENAP</string>
+    <string name="password">Contraseña</string>
+    <string name="email">Correo Electronico</string>
+    <string name="sign_in">Iniciar Sesión</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="state">Tu DPI ya fue</string>
+    <string name="process">Tu DPI está</string>
+    <string name="first_name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="birthdate">Fecha de Nacimiento</string>
+    <string name="department">Departamento</string>
+    <string name="municipality">Municipio</string>
+    <string name="address">Dirección</string>
+    <string name="phone">Telefono</string>
+    <string name="dpi">DPI</string>
+</resources>
